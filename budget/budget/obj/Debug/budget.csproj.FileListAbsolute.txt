@@ -1,0 +1,28 @@
+C:\Users\lenovo\source\repos\budget\budget\bin\Debug\budget.exe.config
+C:\Users\lenovo\source\repos\budget\budget\bin\Debug\budget.exe
+C:\Users\lenovo\source\repos\budget\budget\bin\Debug\budget.pdb
+C:\Users\lenovo\source\repos\budget\budget\obj\Debug\budget.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\budget\budget\obj\Debug\budget.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\budget\budget\obj\Debug\budget.exe
+C:\Users\lenovo\source\repos\budget\budget\obj\Debug\budget.pdb
+C:\Users\lenovo\Documents\SEMESTER 1\PROGRAMMING 2A\20107259_lesego_wageng_Task1_PROG6211\budget\budget\obj\Debug\budget.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\SEMESTER 1\PROGRAMMING 2A\20107259_lesego_wageng_Task1_PROG6211\budget\budget\obj\Debug\budget.exe
+C:\Users\lenovo\Documents\SEMESTER 1\PROGRAMMING 2A\20107259_lesego_wageng_Task1_PROG6211\budget\budget\obj\Debug\budget.pdb
+C:\Users\lenovo\Documents\SEMESTER 1\PROGRAMMING 2A\20107259_lesego_wageng_Task1_PROG6211\budget\budget\bin\Debug\budget.exe.config
+C:\Users\lenovo\Documents\SEMESTER 1\PROGRAMMING 2A\20107259_lesego_wageng_Task1_PROG6211\budget\budget\bin\Debug\budget.exe
+C:\Users\lenovo\Documents\SEMESTER 1\PROGRAMMING 2A\20107259_lesego_wageng_Task1_PROG6211\budget\budget\bin\Debug\budget.pdb
+C:\Users\lenovo\Documents\SEMESTER 1\PROGRAMMING 2A\20107259_lesego_wageng_Task1_PROG6211\budget\budget\obj\Debug\budget.csproj.AssemblyReference.cache
+C:\Users\lenovo\Documents\second year\SEMESTER 1\PROGRAMMING 2A\20107259_lesego_wageng_Task1_PROG6211\budget\budget\bin\Debug\budget.exe.config
+C:\Users\lenovo\Documents\second year\SEMESTER 1\PROGRAMMING 2A\20107259_lesego_wageng_Task1_PROG6211\budget\budget\bin\Debug\budget.exe
+C:\Users\lenovo\Documents\second year\SEMESTER 1\PROGRAMMING 2A\20107259_lesego_wageng_Task1_PROG6211\budget\budget\bin\Debug\budget.pdb
+C:\Users\lenovo\Documents\second year\SEMESTER 1\PROGRAMMING 2A\20107259_lesego_wageng_Task1_PROG6211\budget\budget\obj\Debug\budget.csproj.AssemblyReference.cache
+C:\Users\lenovo\Documents\second year\SEMESTER 1\PROGRAMMING 2A\20107259_lesego_wageng_Task1_PROG6211\budget\budget\obj\Debug\budget.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\second year\SEMESTER 1\PROGRAMMING 2A\20107259_lesego_wageng_Task1_PROG6211\budget\budget\obj\Debug\budget.exe
+C:\Users\lenovo\Documents\second year\SEMESTER 1\PROGRAMMING 2A\20107259_lesego_wageng_Task1_PROG6211\budget\budget\obj\Debug\budget.pdb
+C:\Users\lenovo\Documents\2nd YEAR\SEMESTER 1\PROGRAMMING 2A\20107259_lesego_wageng_Task1_PROG6211\budget\budget\bin\Debug\budget.exe.config
+C:\Users\lenovo\Documents\2nd YEAR\SEMESTER 1\PROGRAMMING 2A\20107259_lesego_wageng_Task1_PROG6211\budget\budget\bin\Debug\budget.exe
+C:\Users\lenovo\Documents\2nd YEAR\SEMESTER 1\PROGRAMMING 2A\20107259_lesego_wageng_Task1_PROG6211\budget\budget\bin\Debug\budget.pdb
+C:\Users\lenovo\Documents\2nd YEAR\SEMESTER 1\PROGRAMMING 2A\20107259_lesego_wageng_Task1_PROG6211\budget\budget\obj\Debug\budget.csproj.AssemblyReference.cache
+C:\Users\lenovo\Documents\2nd YEAR\SEMESTER 1\PROGRAMMING 2A\20107259_lesego_wageng_Task1_PROG6211\budget\budget\obj\Debug\budget.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\2nd YEAR\SEMESTER 1\PROGRAMMING 2A\20107259_lesego_wageng_Task1_PROG6211\budget\budget\obj\Debug\budget.exe
+C:\Users\lenovo\Documents\2nd YEAR\SEMESTER 1\PROGRAMMING 2A\20107259_lesego_wageng_Task1_PROG6211\budget\budget\obj\Debug\budget.pdb

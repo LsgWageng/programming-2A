@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\budget\budget\bin\Debug\budget.exe.config
+C:\Users\lenovo\source\repos\budget\budget\bin\Debug\budget.exe
+C:\Users\lenovo\source\repos\budget\budget\bin\Debug\budget.pdb
+C:\Users\lenovo\source\repos\budget\budget\obj\Debug\budget.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\budget\budget\obj\Debug\budget.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\budget\budget\obj\Debug\budget.exe
+C:\Users\lenovo\source\repos\budget\budget\obj\Debug\budget.pdb
